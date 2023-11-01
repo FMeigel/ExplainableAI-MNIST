@@ -5,3 +5,5 @@ By adding noise to the images of handwritten numbers, we try to interprete which
 
 Here we consider a fully connected DNN.
 We identify features on how handwritten numbers can be identified.
+
+The project is presented in an I-python notebook.
